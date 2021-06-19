@@ -8,7 +8,8 @@ In n consecutive lines: numbers to sort
 ```
 ### Output
 ```
-Sequence of numbers, each separated by a newline character, sorted in a non-descending order.
+Sequence of numbers, each separated by a newline character,
+sorted in a non-descending order.
 ```
 ### Example
 ~~~
