@@ -1,0 +1,5 @@
+﻿  Lab3.cpp
+C:\Progects\PG\Algorytmy i Struktury Danych\Lab3\Lab3\Lab3.cpp(3,33): warning C4081: expected 'newline'; found ';'
+C:\Progects\PG\Algorytmy i Struktury Danych\Lab3\Lab3\Lab3.cpp(4,32): warning C4081: expected 'newline'; found ';'
+C:\Progects\PG\Algorytmy i Struktury Danych\Lab3\Lab3\Lab3.cpp(113,29): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Progects\PG\Algorytmy i Struktury Danych\Lab3\Debug\Lab3.exe
